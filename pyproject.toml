@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "trying-teemi"
+version = "0.1.0"
+description = ""
+authors = ["Manuel Lera Ramirez <manulera14@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+teemi = "^0.3.3"
+pydna = "5.2"
+pandas = "^2.1.4"
+benchlingapi = "^2.1.12"
+numpy = "^1.26.3"
+biopython = "1.80"
+matplotlib = "^3.8.2"
+ipykernel = "^6.28.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

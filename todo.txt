@@ -1,0 +1,7 @@
+- Useful things:
+    - Combinatorial assembly
+    - Nicking enzyme
+    - Cas9
+    - PCR settings from primers etc. depending on the brand
+    - Primer design for pads
+    - Move some of the functions to pydna? Nicking, cas9, other?
